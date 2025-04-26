@@ -8,7 +8,6 @@ package com.mycompany.engtrab1;
  *
  * @author Julia
  */
-
 public enum FormaPagamento {
     DINHEIRO,
     DEBITO,
