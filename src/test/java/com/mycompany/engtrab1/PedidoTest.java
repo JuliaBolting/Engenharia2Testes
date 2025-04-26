@@ -125,5 +125,4 @@ public class PedidoTest {
         String output = outContent.toString();
         assertTrue(output.contains("Monitor"));
     }
-    
 }
