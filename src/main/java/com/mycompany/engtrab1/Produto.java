@@ -8,6 +8,7 @@ package com.mycompany.engtrab1;
  *
  * @author Julia
  */
+
 public class Produto {
     private String nome;
     private double valor;

@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * @author Julia
  */
+
 public class EngTrab1 {
 
     public static void main(String[] args) {
